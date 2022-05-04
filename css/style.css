@@ -46,6 +46,11 @@ body {
     font-weight: 800;
 }
 
+.logo:hover {
+    color: #23A9E0;
+    transition: all 0.2s linear;
+}
+
 .ver-menu {
     display: none;
 }
@@ -64,6 +69,10 @@ body {
     display: block;
     padding: 0.5rem 1rem;
     transition: all 0.2s linear;
+}
+
+.navegador ul li a:hover {
+    color: #23A9E0;
 }
 
 .contenedor-grilla-index {
@@ -132,6 +141,10 @@ body {
     transition: all 0.2s linear;
 }
 
+.caja-link a:hover {
+    color: #23A9E0;
+}
+
 .seccion2 {
     text-align: center;
     font-size: 1.3rem;
@@ -192,6 +205,10 @@ body {
     font-weight: 600;
     padding: 5px 10px;
     transition: all 0.2s linear;
+}
+
+.contenedor-txt-carta a:hover {
+    color: #23A9E0;
 }
 
 .seccion6 {
@@ -316,6 +333,10 @@ body {
     font-size: 1rem;
 }
 
+.columna ul li a:hover {
+    color: #23A9E0;
+}
+
 .columna .redes a {
     height: 35px;
     width: 35px;
@@ -326,6 +347,10 @@ body {
     margin: 0 10px 10px 0;
     line-height: 40px;
     transition: all 0.2s linear;
+}
+
+.columna .redes a:hover {
+    background-color: #23A9E0;
 }
 
 .columna .redes img {
